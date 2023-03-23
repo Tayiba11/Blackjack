@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://sironatherapeutichorsemanship.files.wordpress.com/2017/09/plain-green-wallpaper.jpg?w=640"); 
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+
+} 
+
+.frame{
+    background-image: url("https://sironatherapeutichorsemanship.files.wordpress.com/2017/09/plain-green-wallpaper.jpg?w=640");
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -250px;
+    width: 500px;
+    height: 430px;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 44px;
+    
+}
+
+#message-el{
+   font-style: italic;
+}
+
+button{
+    color: #016f32;
+    font-weight: bold; 
+    font-size: 20px;
+    width: 200px;
+    /* height: 30px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: goldenrod;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top: 2px;
+}
